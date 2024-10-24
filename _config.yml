@@ -25,7 +25,7 @@ url                      : "https://gorthy-byte.github.io"  # Your GitHub Pages 
 baseurl                  : "/minimal-mistakes"          # Repository name
 repository               : "gorthy-byte/minimal-mistakes"
 teaser                   : "/assets/images/DSC_2452.JPG"
-logo                     : "/assets/images/88x88.png"
+logo                     : "/assets/images/DSC_2452.JPG"
 masthead_title           : " "# overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false
 words_per_minute         : 200
