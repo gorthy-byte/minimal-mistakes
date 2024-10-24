@@ -113,12 +113,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name: "Sai Shashank Gorthy"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Master's student in Quantitative Finance, specializing in financial modeling and investment analysis."
+  location: "Somewhere"  # Update this to your actual location if you'd like
+  email: "gorthy@umd.edu"  # If you want to display your email
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shashankgorthy/"
+
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
