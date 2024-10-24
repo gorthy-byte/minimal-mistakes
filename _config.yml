@@ -18,7 +18,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Sai Shashank Gorthy"
 title_separator          : "-"
-subtitle                 : site tagline that appears below site title in masthead
+#subtitle                 : site tagline that appears below site title in masthead
 name                     : "Sai Shashank Gorthy"
 description              : "Master's student in Quantitative Finance, specializing in financial modeling and investment analysis."
 url                      : "https://gorthy-byte.github.io"  # Your GitHub Pages domain
@@ -26,7 +26,7 @@ baseurl                  : "/minimal-mistakes"          # Repository name
 repository               : "gorthy-byte/minimal-mistakes"
 #teaser                   : "/assets/images/DSC_2452.JPG"
 #logo                     : "/assets/images/DSC_2452.JPG"
-masthead_title           : " "# overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Innovating at the Intersection of Finance and Engineering "# overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
